@@ -7,4 +7,6 @@ setps to follow
 
 <img src=x onerror=alert(document.cookie)>
 
+<input type="text"/>
+
 And this the live link https://subscription-assignment.herokuapp.com
